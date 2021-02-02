@@ -1,2 +1,2 @@
-# Curso-Introducci-n-de-Spark
+# Curso-Introduccion-de-Spark
 Curso de Introducción de Spark
